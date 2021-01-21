@@ -22,5 +22,6 @@ Subject-related Read-Ups:
 - Re-Enable Hidden UEFI-Opttions Menus -- https://habr.com/ru/post/211879/ [ru-RU, please use translator]
 
 Ressources:
+- https://store.emprgroup.com.au/p-531110-01lm570.aspx -- Lenovo, Knoll-based (Chipset-less) AM4 board
 - https://www.bios-mods.com/forum/
 - https://habr.com/ru/company/acronis/blog/535848/ -- Developing own UEFI-Driver, Start-Guide, Understanding
