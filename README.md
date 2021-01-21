@@ -5,12 +5,14 @@ This repository contains findings and images (maybe in future also patched versi
 There should be a small Wiki with read-ups for new members of the project to find \
 according information.
 
-Currently: \
--A300 3.60S is AGESAv2, no overclock possible \
--A300 3.60R is AGESAv2, last version o/c possible \
--A300 3.70 is AGESAv1 (no info on o/c items) \
--X300 1.46 is AGESAv2, o/c options visible but do not apply
-
+**Currently:**
+|Version|AGESA|Platform|Notes|
+|--|--|--|--|
+|3.70|v1|A300| latest, updated on release|
+|3.60S|v2 beta|A300| no SOC VID|
+|3.60R|v2 beta|A300| latest with SOC VID|
+|1.46|v2 beta|X300| runs on A300, o/c visible but not working |
+|||||
 
 Important tools:
 - UEFItool -- https://github.com/LongSoft/UEFITool
