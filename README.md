@@ -15,3 +15,8 @@ Important tools:
 
 Subject-related Read-Ups:
 - Patching Intel's UEFI -- https://drive.google.com/file/d/0B7WYx7u6HJh_a25SdENtenZKdWc/edit [Tools, Patching, Example]
+- Re-Enable Hidden UEFI-Opttions Menus -- https://habr.com/ru/post/211879/ [ru, please use translator]
+
+Ressources:
+- https://www.bios-mods.com/forum/
+- 
