@@ -14,9 +14,9 @@ Important tools:
 - ...
 
 Subject-related Read-Ups:
-- Knoll Activator Chip -- https://itigic.com/de/knoll-activator-use-a-ryzen-cpu-without-an-amd-chipset/
+- Knoll Activator Chip -- https://itigic.com/de/knoll-activator-use-a-ryzen-cpu-without-an-amd-chipset/ [de-DE]
 - Patching Intel's UEFI -- https://drive.google.com/file/d/0B7WYx7u6HJh_a25SdENtenZKdWc/edit [Tools, Patching, Example]
-- Re-Enable Hidden UEFI-Opttions Menus -- https://habr.com/ru/post/211879/ [ru, please use translator]
+- Re-Enable Hidden UEFI-Opttions Menus -- https://habr.com/ru/post/211879/ [ru-RU, please use translator]
 
 Ressources:
 - https://www.bios-mods.com/forum/
