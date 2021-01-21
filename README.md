@@ -12,3 +12,6 @@ Currently:
 Important tools:
 - UEFItool -- https://github.com/LongSoft/UEFITool
 - ...
+
+Subject-related Read-Ups:
+- Patching Intel's UEFI -- https://drive.google.com/file/d/0B7WYx7u6HJh_a25SdENtenZKdWc/edit [Tools, Patching, Example]
