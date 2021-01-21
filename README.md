@@ -14,6 +14,7 @@ Currently: \
 
 Important tools:
 - UEFItool -- https://github.com/LongSoft/UEFITool
+- PSPtool -- https://github.com/PSPReverse/PSPTool
 - ...
 
 Subject-related Read-Ups:
