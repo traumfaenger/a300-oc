@@ -10,5 +10,5 @@ Currently:
 -A300 3.60R is AGESAv2, last version o/c possible
 
 Important tools:
-- UEFItool
+- UEFItool -- https://github.com/LongSoft/UEFITool
 - ...
