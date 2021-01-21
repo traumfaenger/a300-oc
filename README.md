@@ -19,4 +19,4 @@ Subject-related Read-Ups:
 
 Ressources:
 - https://www.bios-mods.com/forum/
-- 
+- https://habr.com/ru/company/acronis/blog/535848/ -- Developing own UEFI-Driver, Start-Guide, Understanding
